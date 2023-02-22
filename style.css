@@ -1,0 +1,27 @@
+body{
+    font-size: large;
+        text-align: center;
+        background-color: rgb(34, 34, 35);
+        color: rgb(229, 233, 239);
+}
+table {
+    margin: 0 auto 2rem auto;
+    color: rgb(34, 34, 35);
+}
+
+td {
+    padding: 0.55rem;
+}
+
+tr {
+    margin: 2rem;
+}
+
+tbody {
+    background-color: lightgray;
+}
+
+a,
+a:visited {
+    color: rgb(229, 233, 239);
+}
